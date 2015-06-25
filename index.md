@@ -10,17 +10,17 @@ header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "營業項目說明"
-    url: 'http://127.0.0.1:4000/services'
+    url: 'services'
     text: ''
     image: works/description.jpg
 widget-2:
     title: "實績案例"
-    url: 'http://127.0.0.1:4000/works'
+    url: 'works'
     text: ''
-    video: '<a href="http://127.0.0.1:4000/works" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    video: '<a href="/works" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "經銷商品"
-    url: 'http://127.0.0.1:4000/distributor'
+    url: 'distributor'
     text: ''
     image: works/distributor_item.jpg
 ---
