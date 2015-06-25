@@ -1,38 +1,39 @@
-- title: Start
+- title: 首頁
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: 關於築響
+  url: "/info"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "實績案例"
+  url: "/system/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "會議系統"
+    url: "/system/meetingconference-room/"
+  - title: "翻譯系統"
+    url: "/system/typography/"
+  - title: "電腦教室"
+    url: "/system/page/"
+  - title: "語言教學系統"
+    url: "/system/post-left-sidebar/"
+  - title: "門禁系統"
+    url: "/system/post-right-sidebar/"
+  - title: "監視系統"
+    url: "/system/page-fullwidth/"
+  - title: "環境控制系統"
+    url: "/system/"
+  - title: "音響系統"
+    url: "/system/video/"
+  - title: "資訊看板系統"
+    url: "/system/gallery/"
+  - title: "資訊講桌"
+    url: "/system/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
+
+- title: "經銷商品"
+  url: "/distributor/"
   side: left
   dropdown:
   - title: "Header with Full-Width-Image"
@@ -50,30 +51,10 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: Documentation
-    url: "/documentation/"
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: Blog
-    url: "/blog/"
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Search"
+- title: "搜尋"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "聯絡我們"
   url: "/contact/"
   side: right
