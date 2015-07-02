@@ -56,10 +56,10 @@
 .alert-box {
   font-family: $font-family-sans-serif;
   text-shadow: 0px 1px 1px rgba(0,0,0,0.9);
-} 
+}
   .alert-box p {
     margin-bottom: 0;
-  } 
+  }
   .alert-box a {
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
     color: #fff;
@@ -69,8 +69,8 @@
     border-bottom: 1px solid #fff;
   }
   .alert-box.terminal {
-    background: $grey-12; 
-    color: #fff; 
+    background: $grey-12;
+    color: #fff;
     border-color: scale-color($grey-12, $lightness: -14%);
     font-family: $font-family-monospace;
   }
@@ -143,4 +143,18 @@ img.lazy {
     -o-transition: opacity 0.7s;
     transition: opacity 0.7s;
     opacity: 1;
+}
+
+.google-maps {
+    position: relative;
+    padding-bottom: 75%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
 }
