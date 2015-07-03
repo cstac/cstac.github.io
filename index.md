@@ -7,7 +7,7 @@
 layout: frontpage
 title: "築響系統科技有限公司"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "frontpage_header.jpg"
 widget-1:
     title: "營業項目說明"
     url: 'services'
@@ -22,7 +22,7 @@ widget-3:
     title: "經銷商品"
     url: 'distributor'
     text: ''
-    image: works/distributor_item.jpg
+    image: works/distributor.gif
 ---
 
 
