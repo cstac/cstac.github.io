@@ -12,12 +12,12 @@ widget-1:
     title: "營業項目說明"
     url: 'services'
     text: ''
-    image: works/description.jpg
+    image: works/intergration.jpg
 widget-2:
     title: "實績案例"
     url: 'works'
-    text: ''
-    video: '<a href="/works" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    image: 'works/projects.jpg'
+
 widget-3:
     title: "經銷商品"
     url: 'distributor'
