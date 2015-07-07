@@ -2,7 +2,7 @@
   url: "/info"
   side: left
 
-- title: "實績案例"
+- title: "系統整合"
   url: "/system/"
   side: left
   dropdown:
@@ -11,7 +11,7 @@
   - title: "翻譯系統"
     url: "/system/typography/"
   - title: "電腦教室"
-    url: "/system/page/"
+    url: "/system/computer-class-room/"
   - title: "語言教學系統"
     url: "/system/post-left-sidebar/"
   - title: "門禁系統"

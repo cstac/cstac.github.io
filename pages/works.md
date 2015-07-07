@@ -4,7 +4,8 @@ show_meta: false
 title: "實績案例"
 subheadline: ""
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image: "/works/works.jpg"
+   pattern: ""
 permalink: "/works/"
 ---
 <ul>
