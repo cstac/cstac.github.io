@@ -16,7 +16,7 @@ widget-1:
 widget-2:
     title: "實績案例"
     url: 'works'
-    image: 'works/works.jpg'
+    image: 'works/works_thumbnail.jpg'
 
 widget-3:
     title: "經銷商品"
