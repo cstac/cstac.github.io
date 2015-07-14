@@ -39,7 +39,7 @@ urlimg: "http://127.0.0.1:4000/images"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
-logo_nav: "logo_cstac.gif"
+logo_nav: "logo_cstac.jpg"
 
 # Paginates all X entries
 paginate: 5

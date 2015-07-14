@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "實績案例"
+title: "系統整合"
 subheadline: ""
 header:
    image_fullwidth: "header_unsplash_5.jpg"
