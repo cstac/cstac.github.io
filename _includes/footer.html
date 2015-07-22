@@ -9,7 +9,7 @@
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
-            <h5>{{ site.data.language.info_website }}</h5>
+            <h5>{{ site.title }}</h5>
 
             <p>
               {{ site.description }}
@@ -41,21 +41,21 @@
 
 
           <div class="small-6 medium-3 large-3 columns">
-            {% for network_item in site.data.network %}
+            {% for distributor in site.data.distributors %}
               {% if forloop.first == true %}
-                <h5>{{ network_item.menu_name }}</h5>
+                <h5>{{ distributor.menu_name }}</h5>
               {% endif %}
             {% endfor %}
 
             <ul class="no-bullet">
-            {% for network_item in site.data.network %}
-              {% if network_item.url contains 'http' %}
+            {% for distributor in site.data.distributors %}
+              {% if distributor.url contains 'http' %}
                 {% assign domain = '' %}
                 {% else %}
                 {% assign domain = site.url %}
               {% endif %}
-                <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
-                  <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
+                <li {% if distributor.class %}class="{{ distributor.class }}" {% endif %}>
+                  <a href="{{ domain }}{{ distributor.url }}" {% if distributor.url contains 'http' %}target="_blank" {% endif %} title="{{ distributor.title }}">{{ distributor.name }}</a>
                 </li>
             {% endfor %}
             </ul>

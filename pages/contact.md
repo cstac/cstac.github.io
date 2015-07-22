@@ -1,11 +1,13 @@
 ---
 layout: page
 title: "聯絡我們"
-meta_title: "Contact and use our contact form"
+meta_title: "聯絡我們"
 show_meta: false
 subheadline: ""
 teaser: "期待您留下訊息與我們聯絡"
 permalink: "/contact/"
+header:
+    image_fullwidth: "header_about.jpg"
 ---
 
 #### 專案工程師:

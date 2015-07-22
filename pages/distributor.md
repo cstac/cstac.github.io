@@ -5,7 +5,7 @@ meta_title: "經銷商品"
 show_meta: false
 subheadline: ""
 header:
-   image: "/works/distributor.gif"
+   image: "/distributor/distributor.jpg"
    pattern: ""
 teaser: ""
 permalink: "/distributor/"
