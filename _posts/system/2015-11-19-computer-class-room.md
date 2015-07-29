@@ -5,9 +5,6 @@ subheadline: ""
 teaser: ""
 header:
     image_fullwidth: system/computer_class_room.jpg
-image:
-    image_fullwidth: system/computer_class_room.jpg
 categories:
     - system
 ---
-
