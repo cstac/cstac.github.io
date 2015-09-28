@@ -10,3 +10,8 @@ header:
 teaser: ""
 permalink: "/distributor/"
 ---
+<ul>
+    {% for post in site.categories.distributor  %}
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
