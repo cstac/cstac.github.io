@@ -6,5 +6,6 @@ teaser: "Allen&Heath 設備簡介"
 header: no
 categories:
     - distributor
-    - language
+    - microphone
 ---
+[http://www.allen-heath.com/](http://www.allen-heath.com/)
